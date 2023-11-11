@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=000000&center=true&width=435&lines=Caner+Akin;Backend+developer+from+Turkey)](https://git.io/typing-svg)
 
-- ✅ I’m currently learning **Java & React.js**
+- ✅ I’m currently learning **.NET & React.js**
 
 
 <h3 align="left">Connect with me:</h3>
